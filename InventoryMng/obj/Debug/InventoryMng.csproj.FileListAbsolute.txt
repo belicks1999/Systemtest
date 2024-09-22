@@ -1,0 +1,11 @@
+C:\Users\Belicks\Downloads\System\InventoryMng\InventoryMng\InventoryMng\obj\Debug\InventoryMng.csproj.AssemblyReference.cache
+C:\Users\Belicks\Downloads\System\InventoryMng\InventoryMng\InventoryMng\obj\Debug\InventoryMng.AddItem.resources
+C:\Users\Belicks\Downloads\System\InventoryMng\InventoryMng\InventoryMng\obj\Debug\InventoryMng.BarcodeSingle.resources
+C:\Users\Belicks\Downloads\System\InventoryMng\InventoryMng\InventoryMng\obj\Debug\InventoryMng.EmailConfig.resources
+C:\Users\Belicks\Downloads\System\InventoryMng\InventoryMng\InventoryMng\obj\Debug\InventoryMng.Login.resources
+C:\Users\Belicks\Downloads\System\InventoryMng\InventoryMng\InventoryMng\obj\Debug\InventoryMng.MainForm.resources
+C:\Users\Belicks\Downloads\System\InventoryMng\InventoryMng\InventoryMng\obj\Debug\InventoryMng.Properties.Resources.resources
+C:\Users\Belicks\Downloads\System\InventoryMng\InventoryMng\InventoryMng\obj\Debug\InventoryMng.ReportViewerForm.resources
+C:\Users\Belicks\Downloads\System\InventoryMng\InventoryMng\InventoryMng\obj\Debug\InventoryMng.Sales.resources
+C:\Users\Belicks\Downloads\System\InventoryMng\InventoryMng\InventoryMng\obj\Debug\InventoryMng.csproj.GenerateResource.cache
+C:\Users\Belicks\Downloads\System\InventoryMng\InventoryMng\InventoryMng\obj\Debug\InventoryMng.csproj.CoreCompileInputs.cache
